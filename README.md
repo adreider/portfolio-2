@@ -1,7 +1,7 @@
 # Meu Portólio 💜
 
 <p align="center">
-  <img alt="thumb" src="">
+  <img alt="thumb" src="https://github.com/adreider/portfolio-2/blob/main/github/thumb.png?raw=true">
 </p>
 
 ---
