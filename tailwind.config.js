@@ -11,7 +11,7 @@ export default {
       keyframes: {
         "animate-cursor": {
           "0%": {
-            color: "rgb(192 132 252)",
+            color: "rgb(153 27 27)",
           },
           "100%": {
             color: "rgba(0,0,0,0)",

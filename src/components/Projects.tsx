@@ -69,7 +69,7 @@ function Projects() {
                 className={`group relative h-52 cursor-default rounded-lg ${project.colSpan} bg-cover bg-center`}
                 style={{ backgroundImage: `url('${project.image}')` }}
               >
-                <div className="absolute inset-0 flex h-full w-full flex-col items-center justify-center rounded-lg bg-blue-600 text-white opacity-0 transition-opacity group-hover:opacity-100">
+                <div className="absolute inset-0 flex h-full w-full flex-col items-center justify-center rounded-lg bg-red-400 text-white opacity-0 transition-opacity group-hover:opacity-100">
                   <h4 className="font-headline text-lg font-semibold">
                     {project.title}
                   </h4>
@@ -83,7 +83,7 @@ function Projects() {
           </div>
         </div>
       </section>
-      <div className="absolute right-0 -mt-[6px] h-3 w-48 rounded-l-full bg-gradient-to-r from-gray-700 to-gray-600 md:w-96" />
+      <div className="absolute right-0 -mt-[6px] h-3 w-48 rounded-l-full bg-gradient-to-r from-gray-200 to-gray-600 md:w-1/2" />
     </>
   )
 }
