@@ -38,10 +38,10 @@ function About() {
                   </td>
                   <td>
                     <a
-                      href="tel:+551699999999"
+                      href="tel:+5516996328624"
                       className="underline hover:text-blue-800"
                     >
-                      +55 16 x.xxxxxxxx
+                      +55 16 996328624
                     </a>
                   </td>
                 </tr>

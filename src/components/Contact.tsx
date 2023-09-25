@@ -43,8 +43,8 @@ function Contact() {
   const contacts = [
     {
       name: "WhatsApp",
-      description: "+55 16 9.999-9999",
-      link: "https://wa.me/5516xxxxxxxxx?text=Olá...",
+      description: "+55 16 996328624",
+      link: "https://wa.me/55996328624?text=Olá...",
       icon: <FaWhatsapp className="h-10 w-10" />,
     },
     {
