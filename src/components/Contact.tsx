@@ -44,7 +44,7 @@ function Contact() {
     {
       name: "WhatsApp",
       description: "+55 16 996328624",
-      link: "https://wa.me/55996328624?text=Olá...",
+      link: "https://wa.me/5516996328624?text=Olá...",
       icon: <FaWhatsapp className="h-10 w-10" />,
     },
     {
